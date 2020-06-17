@@ -19,5 +19,9 @@ You can read about proposal and rules [here](https://github.com/HolyJS-TCXX/prop
 
 <summary>2019</summary>
 
-- [HolyJS 2019 Moscow](./events/2019/11.8-9.md) 
+- [HolyJS 2019 Moscow](./events/2019/11.8-9.md)
+
+<summary>2020</summary>
+
+- [HolyJS 2020 Piter](./events/2020/06.22-26.md) 
 
